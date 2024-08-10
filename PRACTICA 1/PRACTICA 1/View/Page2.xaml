@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PRACTICA_1.View.Page2">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid ColumnDefinitions="*,*">
+                <Button Text="A" Grid.Column="0"/>
+                <Button Text="B" Grid.Column="1"/>
+                <Image Grid.Column="0" Grid.Row="1" Source="https://es.web.img3.acsta.net/pictures/15/12/04/10/48/099822.jpg"/>
+                <Image Grid.Column="1" Grid.Row="1" Source="https://es.web.img3.acsta.net/pictures/15/12/04/10/48/099822.jpg"/>
+            </Grid>
+
+        </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>

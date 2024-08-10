@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jv\\XAMARIN\\PRACTICA 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A089EE0B-FC26-412B-8730-6BDBD45F5144}|PRACTICA 1\\PRACTICA 1.csproj|d:\\jv\\xamarin\\practica 1\\practica 1\\view\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A089EE0B-FC26-412B-8730-6BDBD45F5144}|PRACTICA 1\\PRACTICA 1.csproj|solutionrelative:practica 1\\view\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A089EE0B-FC26-412B-8730-6BDBD45F5144}|PRACTICA 1\\PRACTICA 1.csproj|d:\\jv\\xamarin\\practica 1\\practica 1\\view\\inicio1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A089EE0B-FC26-412B-8730-6BDBD45F5144}|PRACTICA 1\\PRACTICA 1.csproj|solutionrelative:practica 1\\view\\inicio1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A089EE0B-FC26-412B-8730-6BDBD45F5144}|PRACTICA 1\\PRACTICA 1.csproj|d:\\jv\\xamarin\\practica 1\\practica 1\\view\\inicio1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A089EE0B-FC26-412B-8730-6BDBD45F5144}|PRACTICA 1\\PRACTICA 1.csproj|solutionrelative:practica 1\\view\\inicio1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A089EE0B-FC26-412B-8730-6BDBD45F5144}|PRACTICA 1\\PRACTICA 1.csproj|d:\\jv\\xamarin\\practica 1\\practica 1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A089EE0B-FC26-412B-8730-6BDBD45F5144}|PRACTICA 1\\PRACTICA 1.csproj|solutionrelative:practica 1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A089EE0B-FC26-412B-8730-6BDBD45F5144}|PRACTICA 1\\PRACTICA 1.csproj|d:\\jv\\xamarin\\practica 1\\practica 1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A089EE0B-FC26-412B-8730-6BDBD45F5144}|PRACTICA 1\\PRACTICA 1.csproj|solutionrelative:practica 1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A089EE0B-FC26-412B-8730-6BDBD45F5144}|PRACTICA 1\\PRACTICA 1.csproj|d:\\jv\\xamarin\\practica 1\\practica 1\\view\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A089EE0B-FC26-412B-8730-6BDBD45F5144}|PRACTICA 1\\PRACTICA 1.csproj|solutionrelative:practica 1\\view\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "D:\\Jv\\XAMARIN\\PRACTICA 1\\PRACTICA 1\\View\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTICA 1\\View\\Page2.xaml.cs",
+              "ToolTip": "D:\\Jv\\XAMARIN\\PRACTICA 1\\PRACTICA 1\\View\\Page2.xaml.cs",
+              "RelativeToolTip": "PRACTICA 1\\View\\Page2.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:05:00.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Jv\\XAMARIN\\PRACTICA 1\\PRACTICA 1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PRACTICA 1\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Jv\\XAMARIN\\PRACTICA 1\\PRACTICA 1\\AssemblyInfo.cs",
+              "RelativeToolTip": "PRACTICA 1\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:05:16.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "D:\\Jv\\XAMARIN\\PRACTICA 1\\PRACTICA 1\\View\\Page2.xaml",
+              "RelativeDocumentMoniker": "PRACTICA 1\\View\\Page2.xaml",
+              "ToolTip": "D:\\Jv\\XAMARIN\\PRACTICA 1\\PRACTICA 1\\View\\Page2.xaml",
+              "RelativeToolTip": "PRACTICA 1\\View\\Page2.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-10T17:56:17.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inicio1.xaml.cs",
+              "DocumentMoniker": "D:\\Jv\\XAMARIN\\PRACTICA 1\\PRACTICA 1\\View\\Inicio1.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTICA 1\\View\\Inicio1.xaml.cs",
+              "ToolTip": "D:\\Jv\\XAMARIN\\PRACTICA 1\\PRACTICA 1\\View\\Inicio1.xaml.cs",
+              "RelativeToolTip": "PRACTICA 1\\View\\Inicio1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:40:59.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inicio1.xaml",
+              "DocumentMoniker": "D:\\Jv\\XAMARIN\\PRACTICA 1\\PRACTICA 1\\View\\Inicio1.xaml",
+              "RelativeDocumentMoniker": "PRACTICA 1\\View\\Inicio1.xaml",
+              "ToolTip": "D:\\Jv\\XAMARIN\\PRACTICA 1\\PRACTICA 1\\View\\Inicio1.xaml",
+              "RelativeToolTip": "PRACTICA 1\\View\\Inicio1.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-10T17:38:41.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Jv\\XAMARIN\\PRACTICA 1\\PRACTICA 1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTICA 1\\App.xaml.cs",
+              "ToolTip": "D:\\Jv\\XAMARIN\\PRACTICA 1\\PRACTICA 1\\App.xaml.cs",
+              "RelativeToolTip": "PRACTICA 1\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:38:21.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

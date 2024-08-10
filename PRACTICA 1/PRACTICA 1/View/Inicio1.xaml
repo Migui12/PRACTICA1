@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PRACTICA_1.View.Inicio1">
+
+    <StackLayout>
+        <Label Text="Hola Bro!"
+               TextColor="red"
+               HorizontalTextAlignment="Center"/>
+        <Image Source="https://e.rpp-noticias.io/xlarge/2020/05/18/345934_943539.jpg"/>
+        <Entry Placeholder="Ingresa algo" ></Entry>
+        <Button x:Name="Guardar" Clicked="Guardar_Clicked" Text="Enviar"/>
+    </StackLayout>
+</ContentPage>
